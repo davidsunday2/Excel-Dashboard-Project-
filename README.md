@@ -1,4 +1,4 @@
-# Excel-Dashboard-Project-
+# Excel-Dashboard-Project
 ![image](https://github.com/user-attachments/assets/dd295fbe-060e-46b1-92a8-855bed2cdf04)
 
 Coffee Bean Sales Data Analysis
