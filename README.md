@@ -8,16 +8,16 @@ This project analyzes the Coffee Bean Sales Dataset to uncover insights on consu
 
 
 ## The primary objectives are to:
--Identify the top 5 customers
--Track coffee-type sales trends
--Analyze sales by country
+- Identify the top 5 customers
+- Track coffee-type sales trends
+- Analyze sales by country
 
 ## Data Source
 I used a publically available dataset and it had the below sheets in one Excel workbook
 - Orders: Order details
 - Customers: Customer profiles
 - Products: Product information
-- 
+
 ## Approach to Building the Dashboard
 - Data Gathering & Cleaning: Combine customer and product details with orders for a comprehensive analysis.
 - Data Transformation: Use formulas (VLOOKUP, INDEX, MATCH) to merge data from different sheets, and treat columns for better usability.
