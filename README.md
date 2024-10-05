@@ -13,7 +13,7 @@ This project analyzes the Coffee Bean Sales Dataset to uncover insights on consu
 - Analyze sales by country
 
 ## Data Source
-I used a publically available dataset and it had the below sheets in one Excel workbook
+I used a publically available dataset with below sheets in one Excel workbook
 - Orders: Order details
 - Customers: Customer profiles
 - Products: Product information
