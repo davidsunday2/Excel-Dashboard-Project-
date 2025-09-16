@@ -1,7 +1,7 @@
-# Excel-Dashboard-Project
+# Interactive Dashboard-Project
 
 Coffee Bean Sales Data Analysis
-This project analyzes the Coffee Bean Sales Dataset to uncover insights on consumer behavior, product performance, and geographical sales trends. The goal is to optimize inventory, and customer engagement, and support strategic expansion efforts.
+This project analyzes the Coffee Bean Sales Dataset to uncover insights into consumer behavior, product performance, and geographical sales trends. The goal is to optimize inventory, customer engagement, and support strategic expansion efforts.
 
 ![image](https://github.com/user-attachments/assets/dd295fbe-060e-46b1-92a8-855bed2cdf04)
 
